@@ -22,19 +22,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link " aria-current="page" href="Index1.php">Home</a>
+          <a class="nav-link " aria-current="page" href="Index1.html">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="Aboutus2.php">About Us</a>
+          <a class="nav-link active" href="Aboutus2.html">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="covid.php">Covid-19 Info</a>
+          <a class="nav-link" href="covid.html">Covid-19 Info</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="gallery.php">Gallery</a>
+          <a class="nav-link" href="gallery.html">Gallery</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="lgin.php">Login</a>
+          <a class="nav-link" href="lgin.html">Login</a>
         </li>
       </ul>
         <button class="btn btn-outline-success" type="submit">Donate</button>
